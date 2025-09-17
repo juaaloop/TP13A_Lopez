@@ -1,8 +1,26 @@
-*{
-    margin: 0%;
-    padding: 0%;
-    border:1px solid black;
+* {
+  margin: 0%;
+  padding: 0%;
+  border: 1px solid black;
 }
-.col img{
-    width: 80%;
+section{
+    margin-bottom: 3%;
+}
+.col img {
+  width: 80%;
+}
+div.col-6 {
+  width: 30%;
+  margin-left: 2.5%;
+  padding: 0%;
+  border-radius: 10px;
+}
+
+h4{
+    font-size: 16px !important;
+
+}
+.card{
+    width: 50% !important;
+    justify-self: center;
 }
